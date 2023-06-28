@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gbuserturk
 - 👀 I’m interested in software and theater.
-- 🌱 I’m currently learning html,CSS, electrical engineering
+- 🌱 I’m currently learning html,CSS, electronic engineering
 - 💞️ I’m looking to collaborate software
 - 📫 How to reach me erturkgbuse@gmail.com
 
